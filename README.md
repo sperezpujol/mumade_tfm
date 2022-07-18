@@ -4,4 +4,6 @@ This is the data repository of a research project linked to the final project of
 
 [REPOSITORY UNDER CONSTRUCTION: last update July 18th].
 
+Copyright (c) 2022, Rafael Sergio Pérez Pujol
+
 Contact me: rafaelsergio.perez@alu.uclm.es - University of Castilla-La Mancha :email:
