@@ -1,0 +1,11 @@
+﻿id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight<Documents>	weight<Citations>	weight<Norm. citations>	score<Avg. pub. year>	score<Avg. citations>	score<Avg. norm. citations>
+129	bergset l.	-0.9596	0.0801	1	1	1	2	44	1.7949	2016.5	22	0.8975
+362	fichter k.	-0.6398	-0.0667	1	6	9	7	209	18.5665	2018.7143	29.8571	2.6524
+456	hansen e.g.	-0.0676	-0.0159	2	4	7	4	354	24.2038	2016.75	88.5	6.051
+481	hockerts k.	0.9906	-0.1754	4	2	3	3	635	4.7514	2013	211.6667	1.5838
+614	kuckertz a.	0.0853	0.7479	3	1	1	2	365	3.4718	2014.5	182.5	1.7359
+673	lüdeke-freund f.	-0.2623	-0.3818	2	4	4	4	415	24.1163	2017.75	103.75	6.0291
+1008	schaltegger s.	0.2791	0.0041	2	5	10	8	1262	36.9575	2015.5	157.75	4.6197
+1150	tiemann i.	-0.6699	-0.4295	1	2	5	4	130	6.1871	2018.5	32.5	1.5468
+1232	wagner m.	0.0514	0.4633	3	4	6	6	1236	18.6642	2012.1667	206	3.1107
+1270	wüstenhagen r.	1.1929	-0.2261	4	1	2	2	596	3.0376	2010.5	298	1.5188
